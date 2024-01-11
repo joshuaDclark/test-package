@@ -1,0 +1,8 @@
+{
+    "name": "jc/test",
+    "description": "a simple package to understand composer packages",
+    "autoload": {
+        "files": ["my-file.php"]
+    },
+    "require": {}
+}
