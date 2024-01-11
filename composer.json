@@ -4,5 +4,7 @@
     "autoload": {
         "files": ["my-file.php"]
     },
+    "minimum-stability": "dev",
+    "prefer-stable": true,
     "require": {}
 }
