@@ -1,5 +1,11 @@
 ## A simple Composer test package.
 
+
+Requirements:
+- PHP must be installed (latest version is ideal)
+- Latest version of Composer must be installed
+
+
 1. Start a new project.
 2. In your root directory add a composer.json file and copy the following snippet of code:
 
