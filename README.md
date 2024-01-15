@@ -25,7 +25,19 @@ Requirements:
 
 3. Run `composer install`
 
-4. After install run the following command:
+4. Create a file called `test.php` and add the following snippet
+
+```<?php
+
+    require_once 'vendor/autoload.php
+
+    sayHello();
+```
+
+Save to the project root directory.
+
+
+5. Run the following command:
 
    `php test.php`
 
