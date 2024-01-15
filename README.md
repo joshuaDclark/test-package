@@ -1,6 +1,16 @@
 ## A simple Composer test package.
 
 
+### This is a little composer package I made to better understand how I could expedite my future projects. The idea is for this to behave as a starter kit for my project's scaffolding. 
+
+
+This doc will show you how to set this up in 2 minutes or less.
+
+
+If you prefer a video tutorial you can watch this [here](https://www.loom.com/share/a1bbfe71aa7c4915b1837eaff0a4d8c0?sid=0d326905-c632-4e52-8a0a-b4cc7864b802).
+
+---
+
 Requirements:
 - PHP must be installed (latest version is ideal)
 - Latest version of Composer must be installed
@@ -27,11 +37,13 @@ Requirements:
 
 4. Create a file called `test.php` and add the following snippet
 
-```<?php
+```
+    <?php
 
     require_once 'vendor/autoload.php';
 
     sayHello();
+
 ```
 
 Save to the project root directory.
