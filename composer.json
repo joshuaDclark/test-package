@@ -6,5 +6,10 @@
     },
     "minimum-stability": "dev",
     "prefer-stable": true,
+    "extra": {
+        "installer-paths": {
+            "public/templates/": ["templates/*"]
+        }
+        },
     "require": {}
 }
