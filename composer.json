@@ -7,11 +7,5 @@
     "minimum-stability": "dev",
     "prefer-stable": true,
     
-        "extra": {
-            "installer-paths": {
-              "public/": ["type:templates"]
-        
-            }
-          },
     "require": {}
 }
